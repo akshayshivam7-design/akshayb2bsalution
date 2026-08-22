@@ -1,0 +1,6 @@
+{
+  "name": "Akshay B2B Solutions",
+  "description": "Legal Compliance & Business Registration Consultancy with AI-powered filing, mega-menu, multi-step consultation, and compliance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
